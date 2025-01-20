@@ -88,6 +88,12 @@ ai-chat-hub/
 - Framer Motion for the beautiful animations
 - All contributors and supporters of the project
 
+## Bots not responding?
+To make it functional, you would need to:
+Connect to actual AI APIs (like OpenAI for ChatGPT, Anthropic for Claude, etc.) #It is a unique api so it can't be shared by me refer to chatgpt or other ai bots for instructions on how to get their api key and use to make the hub functional.
+Handle API authentication
+Process responses from these services
+
 ## Contribute
 - To contribute simply clone the repo
 - Make change to the project
