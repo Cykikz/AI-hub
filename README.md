@@ -87,3 +87,9 @@ ai-chat-hub/
 - Tailwind CSS for the utility-first CSS framework
 - Framer Motion for the beautiful animations
 - All contributors and supporters of the project
+
+## Contribute
+- To contribute simply clone the repo
+- Make change to the project
+- Add new things
+- Update your git
